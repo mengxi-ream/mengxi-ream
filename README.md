@@ -1,4 +1,4 @@
-### <div align="center">I'm Kuiliang, currently a Computer Science student at UBC👨‍💻 also an Ex Data Scientist at ByteDance 💼</div>  
+### <div align="center">I'm Kuiliang, currently a Computer Science student at UBC👨‍💻. I was a Data Scientist at ByteDance 💼</div>  
   
 
 - 🌱 I believe that an interdisciplinary background can help a person come up with non-linear solutions.  
