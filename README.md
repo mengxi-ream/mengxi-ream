@@ -10,4 +10,4 @@ Keen on innovative collaborations and tech advancements. Let's connect!
 
 My Resume: https://kuiliang.vercel.app/resume
 
-[![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Crayon-ShinChan&theme=tokyonight)](#typescriptjavascript)
+![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Crayon-ShinChan&&hide=tex,jupyter%20notebook,mdx,scss)
