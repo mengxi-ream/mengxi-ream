@@ -9,3 +9,5 @@ Skilled in software engineering and data science with hands-on experience at Boe
 Keen on innovative collaborations and tech advancements. Let's connect!
 
 My Resume: https://kuiliang.vercel.app/resume
+
+[![Boyi's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Crayon-ShinChan&theme=tokyonight)](#typescriptjavascript)
