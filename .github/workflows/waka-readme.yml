@@ -21,8 +21,6 @@ jobs:
           SECTION_NAME: waka # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           AUTHOR_NAME: MengXi # optional
