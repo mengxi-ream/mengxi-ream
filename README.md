@@ -13,9 +13,4 @@ Keen on innovative collaborations and tech advancements. Let's connect!
 ![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Crayon-ShinChan&&hide=tex,jupyter%20notebook,mdx,scss)
 
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   0 secs          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
