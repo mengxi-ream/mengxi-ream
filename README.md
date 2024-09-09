@@ -17,15 +17,15 @@ Keen on innovative collaborations and tech advancements. Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
-Total Time: 4 hrs 9 mins
+Total Time: 7 hrs 58 mins
 
-TypeScript    3 hrs 26 mins   ████████████████████▓░░░░   82.47 %
-Markdown      28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-YAML          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Prisma        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-MDX           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript    5 hrs 34 mins   █████████████████▒░░░░░░░   69.86 %
+MDX           1 hr 42 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+Markdown      28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+YAML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Prisma        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
