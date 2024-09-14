@@ -8,16 +8,24 @@ Skilled in software engineering and data science with hands-on experience at Boe
 
 Keen on innovative collaborations and tech advancements. Let's connect!
 
-[![Crayon-ShinChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crayon-ShinChan)](https://github.com/anuraghazra/github-readme-stats)
+[![Crayon-ShinChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengxi-ream)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Crayon-ShinChan&&hide=tex,jupyter%20notebook,mdx,scss)
+![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mengxi-ream&&hide=tex,jupyter%20notebook,mdx,scss)
 
 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          █████████████████████████   100.00 %
+From: 06 September 2024 - To: 13 September 2024
+
+Total Time: 22 hrs 4 mins
+
+TypeScript    15 hrs 45 mins  ██████████████████░░░░░░░   71.34 %
+MDX           2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Markdown      41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JavaScript    39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JSON          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
