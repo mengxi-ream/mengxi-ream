@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    # runs at 6 AM Vancouver time (13:00 UTC)
+    - cron: "0 13 * * *"
 
 jobs:
   update-readme:
@@ -21,9 +21,10 @@ jobs:
           SECTION_NAME: waka # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
+          SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown MDX # optional
+          TIME_RANGE: last_30_days # optional
           ### commit
           AUTHOR_NAME: MengXi # optional
           # you can populate email-id with secrets instead
