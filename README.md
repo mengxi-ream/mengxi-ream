@@ -1,10 +1,6 @@
-Software Engineer | Data Scientist | UBC Computer Science Student
+Software Engineer | Data Scientist | Entrepreneur
 
-Skilled in software engineering and data science with hands-on experience at Boeing and ByteDance. Expertise in web app development, machine learning.
-
-1. 🛠 Key Skills: Next.js, Python, SQL, Machine Learning, A/B Testing
-2. 💼 Highlights: Developed predictive maintenance apps for Boeing; executed deep learning models with up to 91% accuracy for ByteDance.
-3. 📚 Education: Pursuing Computer Science at UBC; BSc in Finance from University of Nottingham with First Class Honours.
+Contributing to https://visactor.io | Building https://feelio.app and https://traceca.site | Focus on engineering, design, indie hacker and ❤️ love
 
 Keen on innovative collaborations and tech advancements. Let's connect!
 
