@@ -24,7 +24,7 @@ jobs:
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML Markdown MDX # optional
-          TIME_RANGE: last_30_days # optional
+          TIME_RANGE: last_7_days # optional
           ### commit
           AUTHOR_NAME: MengXi # optional
           # you can populate email-id with secrets instead
