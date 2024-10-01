@@ -13,15 +13,15 @@ Keen on innovative collaborations and tech advancements. Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2024 - To: 30 September 2024
+From: 24 September 2024 - To: 01 October 2024
 
-Total Time: 5 hrs 14 mins
+Total Time: 5 hrs 12 mins
 
-TypeScript    3 hrs 21 mins   ████████████████░░░░░░░░░   63.98 %
-C             1 hr 49 mins    ████████▓░░░░░░░░░░░░░░░░   34.71 %
-JSON          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+TypeScript    3 hrs 6 mins    ███████████████░░░░░░░░░░   59.80 %
+C             1 hr 49 mins    ████████▓░░░░░░░░░░░░░░░░   34.97 %
+Markdown      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+JSON          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Prisma        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
