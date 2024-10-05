@@ -13,15 +13,14 @@ Keen on innovative collaborations and tech advancements. Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2024 - To: 04 October 2024
+From: 28 September 2024 - To: 05 October 2024
 
-Total Time: 6 hrs 7 mins
+Total Time: 17 hrs 11 mins
 
-TeX          2 hrs 23 mins   █████████▓░░░░░░░░░░░░░░░   39.11 %
-C            2 hrs           ████████▒░░░░░░░░░░░░░░░░   32.70 %
-Python       1 hr 17 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
-Markdown     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Python       10 hrs 24 mins  ███████████████░░░░░░░░░░   60.54 %
+TeX          2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+C            2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
