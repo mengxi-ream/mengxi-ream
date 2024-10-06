@@ -18,7 +18,6 @@ From: 29 September 2024 - To: 06 October 2024
 Total Time: 20 hrs 7 mins
 
 Python       11 hrs 58 mins  ███████████████░░░░░░░░░░   59.52 %
-TeX          2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
 C            2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
 Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
