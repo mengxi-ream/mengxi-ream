@@ -23,7 +23,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML Markdown MDX TEX # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown MDX TeX # optional
           TIME_RANGE: last_7_days # optional
           ### commit
           AUTHOR_NAME: MengXi # optional
