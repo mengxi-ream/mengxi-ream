@@ -13,14 +13,14 @@ Keen on innovative collaborations and tech advancements. Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Total Time: 21 hrs
+Total Time: 23 hrs 4 mins
 
-Python       11 hrs 58 mins  ██████████████▒░░░░░░░░░░   57.03 %
-Java         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-TypeScript   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python       12 hrs          █████████████░░░░░░░░░░░░   52.01 %
+Java         3 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+TypeScript   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
