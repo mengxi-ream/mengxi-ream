@@ -3,9 +3,9 @@ name: Waka Readme
 on:
   # for manual workflow trigger
   workflow_dispatch:
-  schedule:
+  # schedule:
     # runs at 6 AM Vancouver time (13:00 UTC)
-    - cron: "0 13 * * *"
+    # - cron: "0 13 * * *"
 
 jobs:
   update-readme:
