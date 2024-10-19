@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mengxi-ream.mengxi-ream)
+![](https://visitor-badge.laobi.icu/badge?page_id=mengxi.readme)
 
 Software Engineer | Data Scientist | Entrepreneur
 
