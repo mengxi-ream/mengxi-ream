@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=mengxi.readme)
+![](https://visitor-badge.laobi.icu/badge?page_id=mengxi.readme) [![wakatime](https://wakatime.com/badge/user/5cbcbee9-e94d-469d-ac0b-617d76070332.svg)](https://wakatime.com/@5cbcbee9-e94d-469d-ac0b-617d76070332)
 
 Software Engineer | Data Scientist | Entrepreneur
 
