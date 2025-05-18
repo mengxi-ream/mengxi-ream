@@ -2,7 +2,7 @@
 
 Software Engineer | Data Scientist | Entrepreneur
 
-Contributing to https://visactor.io | Building https://traceca.site | Focus on engineering, design, indie hacker and ❤️ love
+Creator of Chrome Translation Extension - Read Frog https://readfrog.mengxi.work | Building https://traceca.site | Focus on engineering, design, indie hacker and ❤️ love
 
 Keen on innovative collaborations and tech advancements. Let's connect!
 
