@@ -6,9 +6,9 @@ Creator of Chrome Translation Extension - Read Frog https://readfrog.app | Build
 
 Keen on innovative collaborations and tech advancements. Let's connect!
 
-[![Crayon-ShinChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengxi-ream&show_icons=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Crayon-ShinChan's GitHub stats](https://readme-stats.mengxi.work/api?username=mengxi-ream&show_icons=true&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mengxi-ream&hide=tex,jupyter%20notebook,mdx,scss&layout=compact)
+![Kuiliang's top langs](https://readme-stats.mengxi.work/api/top-langs?username=mengxi-ream&hide=tex,jupyter%20notebook,mdx,scss&layout=compact)
 
 <!--START_SECTION:waka-->
 
