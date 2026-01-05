@@ -2,7 +2,7 @@
 
 Software Engineer | Entrepreneur
 
-Creator of Chrome Translation Extension - Read Frog https://readfrog.app | Building https://traceca.site | Focus on engineering, design, indie hacker and ❤️ love
+Creator of the language tool for educational equity - Read Frog https://readfrog.app | Building https://traceca.site | Focus on engineering, design, indie hacker and ❤️ love
 
 Keen on innovative collaborations and tech advancements. Let's connect!
 
