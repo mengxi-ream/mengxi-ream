@@ -1,5 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=mengxi.readme) [![wakatime](https://wakatime.com/badge/user/5cbcbee9-e94d-469d-ac0b-617d76070332.svg)](https://wakatime.com/@5cbcbee9-e94d-469d-ac0b-617d76070332)
-
+![](https://visitor-badge.laobi.icu/badge?page_id=mengxi.readme)
 Software Engineer | Entrepreneur
 
 Creator of the language tool for educational equity - Read Frog https://readfrog.app | Building https://traceca.site | Focus on engineering, design, indie hacker and ❤️ love
